@@ -1,0 +1,28 @@
+# Project Summary
+
+1. Objective:
+To explore and analyze Airbnb booking data using EDA techniques to uncover patterns in pricing, availability, and user behavior for better business insights.
+
+📊 2. Dataset Overview:
+~49,000 records with 16 mixed-type features
+
+Includes data on location, price, room type, availability, and host activity
+
+🧹 3. Data Preparation & Analysis:
+Handled missing data and formatted types
+
+Performed univariate and multivariate analysis to examine price distribution, room types, and neighborhood trends
+
+Used correlation and visual tools (e.g., heatmaps, boxplots)
+
+💡 4. Key Insights:
+Prices vary significantly by room type and neighborhood
+
+High availability correlates with lower prices
+
+Some hosts manage multiple listings and tend to price differently
+
+Central neighborhoods and certain room types dominate the platform
+
+🛠️ 5. Tools & Technologies:
+Used Python with libraries like Pandas, Seaborn, and Matplotlib for data handling and visualization
